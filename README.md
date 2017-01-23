@@ -3,7 +3,7 @@ My App Portfolio for the Nanodegree course @ Udacity.
 
 This is my first app using Android.
 
-It'll launch the following appsÇ
+It'll launch the following apps:
 
 P1 - Popular Movies
 P2 - Stock Hawk
